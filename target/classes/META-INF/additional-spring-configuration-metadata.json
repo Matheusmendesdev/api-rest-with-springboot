@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.jpa.dbcp2.drive-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.dbcp2.drive-class-name'"
+  },
+  {
+    "name": "spring.jpa.dbcp2.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.dbcp2.url'"
+  },
+  {
+    "name": "spring.jpa.dbcp2.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.dbcp2.password'"
+  },
+  {
+    "name": "spring.jpa.dbcp2.user",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.dbcp2.user'"
+  },
+  {
+    "name": "spring.jpa.dbcp2.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.dbcp2.username'"
+  }
+]}
